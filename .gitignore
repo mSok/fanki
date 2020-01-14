@@ -1,0 +1,3 @@
+.vscode/
+py37-venv/
+git push -u origin master
